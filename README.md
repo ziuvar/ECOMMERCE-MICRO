@@ -1,0 +1,1 @@
+Arquitectura basada en microservicios FashionTrendShop
